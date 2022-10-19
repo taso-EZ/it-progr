@@ -1,2 +1,2 @@
 # it-progr
-this is my  rirs repo
+this is my  firs repo
